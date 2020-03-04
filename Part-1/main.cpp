@@ -14,8 +14,8 @@ int main()
     
 	// initialize Angelina Accounts
 	
-	Angelina_Account[ 0 ] = new SavingsAccount( 400.0, 0.12 ); 
-
+	Angelina_Account[ 0 ] = new SavingsAccount( 400.0, 0.12); 
+	
 	Angelina_Account[ 1 ] = new SavingsAccount( 400.0, 0.15);
 
 	cout << "**************************" << endl;
